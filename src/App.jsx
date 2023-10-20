@@ -387,8 +387,7 @@ import './react-animated-3d-card.js';
     <div className=" flex justify-center items-center">
      <div className="grid gap-7 mb-10 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 " data-aos="zoom-in-up">
 
-      <Card>
-       <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+        <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
         <div className=" p-10">
          <img src="cert/competion.jpg" alt="" />
          <p className=' font-semibold text-xl mt-1'>Participation </p>
@@ -400,90 +399,75 @@ import './react-animated-3d-card.js';
             href="">Swisscontact.</a> </p>
         </div>
        </div>
-      </Card>
+ 
 
 
 
 
-
-      <Card>
-       <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+        <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
         <div className=" p-10">
          <img src="cert/js.png" alt="" />
          <p className=' font-semibold text-xl mt-1'>JAVASCRIPT</p> <br /> <br />
          <p className=' text-xl'>Javascript and algorith course  from FreeCodeCamp</p>
         </div>
        </div>
-      </Card>
+ 
 
 
-
-      <Card>
-       <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+        <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
         <div className="p-5">
          <img src="https://www.sololearn.com/Certificate/CT-AZJ620AU/jpg" alt="" />
          <p className=' font-semibold text-xl'>PHP</p> <br />
          <p className=' text-xl'>Cetificate of completed the course by demostrating theoretical understanding of php from sololearn</p>
         </div>
        </div>
-      </Card>
+ 
 
 
-
-      <Card>
-       <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+        <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
         <div className="p-5">
          <img src="https://www.sololearn.com/Certificate/CT-OSDVPWVD/png" alt="" />
          <p className=' font-semibold text-xl'>SQL</p> <br />
          <p className=' text-xl'>Cetificate of completed the course by demostrating theoretical understanding of sql from sololearn</p>
         </div>
        </div>
-      </Card> 
+ 
 
 
 
-
-      <Card>
-       <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+        <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
         <div className="p-5">
          <img src="https://www.sololearn.com/Certificate/CT-PBA6EBA5/jpg" alt="" />
          <p className=' font-semibold text-xl'>Web development Foundmentals</p>
          <p className=' text-xl'>Cetificate of completed the course by demostrating theoretical understanding Web development foundmentals from sololearn.</p>
         </div>
        </div>
-           </Card> 
-           
-      <Card>
-       <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+            
+        <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
         <div className="p-5">
          <img src="https://www.sololearn.com/Certificate/CT-DPEINNUF/jpg" alt="" />
          <p className=' font-semibold text-xl'> HTML</p>
          <p className=' text-xl'>Cetificate of completed the course by demostrating theoretical understanding  html from sololearn.</p>
         </div>
        </div>
-           </Card> 
-           
-      <Card>
-       <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+            
+        <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
         <div className="p-5">
          <img src="https://www.sololearn.com/Certificate/CT-B1F0C46U/jpg" alt="" />
          <p className=' font-semibold text-xl'> CSS</p>
          <p className=' text-xl'>Cetificate of completed the course by demostrating theoretical understanding  css from sololearn.</p>
         </div>
        </div>
-      </Card> 
-
+ 
            
-      <Card>
-       <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+        <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
         <div className="p-5">
          <img src="https://www.sololearn.com/Certificate/CT-DX68EORH/jpg" alt="" />
          <p className=' font-semibold text-xl'>C</p>
          <p className=' text-xl'>Cetificate of completed the course by demostrating theoretical understanding  c programing from sololearn.</p>
         </div>
        </div>
-      </Card> 
-
+ 
 
 
      </div>
@@ -503,7 +487,39 @@ import './react-animated-3d-card.js';
     <div className=" flex justify-center items-center">
      <div className="grid gap-7 mb-10 grid-cols-1 md:grid-cols-2 lg:grid-cols-3 " data-aos="zoom-in-up">
 
-      <Card>
+        <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+        <div className=" p-10">
+         <img src="proj/chair_shop.jpg" alt="" />
+         <p className=' font-semibold text-xl mt-1'>Chairs online Shop </p>
+         <div className="flex flex-row gap-2  pt-5">
+          <p className=' text-lg p-1 rounded-sm bg-slate-400 text-white'>Tailwind Css</p>
+          <p className=' text-lg p-1 rounded-sm bg-slate-400 text-white'>React Js</p>
+         </div>
+         <div className=" gap-4 mt-10">
+          <a className=' ml-5 text-xl mr-4 hover:underline text-blue-600 font-semibold ' href="">Priview</a>
+          <a href=""><i class=" text-2xl mr-4  hover:animate-bounce hover:text-blue-700 fa-brands fa-github"></i></a>
+         </div>
+        </div>
+       </div>
+ 
+
+        <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+        <div className=" p-10">
+         <img src="proj/chair_shop.jpg" alt="" />
+         <p className=' font-semibold text-xl mt-1'>Chairs online Shop </p>
+         <div className="flex flex-row gap-2  pt-5">
+          <p className=' text-lg p-1 rounded-sm bg-slate-400 text-white'>Tailwind Css</p>
+          <p className=' text-lg p-1 rounded-sm bg-slate-400 text-white'>React Js</p>
+         </div>
+         <div className=" gap-4 mt-10">
+          <a className=' ml-5 text-xl mr-4 hover:underline text-blue-600 font-semibold ' href="">Priview</a>
+          <a href=""><i class=" text-2xl mr-4  hover:animate-bounce hover:text-blue-700 fa-brands fa-github"></i></a>
+         </div>
+        </div>
+       </div>
+      
+
+      
        <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
         <div className=" p-10">
          <img src="proj/chair_shop.jpg" alt="" />
@@ -518,10 +534,9 @@ import './react-animated-3d-card.js';
          </div>
         </div>
        </div>
-      </Card>
+      
 
-
-      <Card>
+      
        <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
         <div className=" p-10">
          <img src="proj/chair_shop.jpg" alt="" />
@@ -536,10 +551,11 @@ import './react-animated-3d-card.js';
          </div>
         </div>
        </div>
-      </Card>
+     
 
 
-      <Card>
+
+      
        <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
         <div className=" p-10">
          <img src="proj/chair_shop.jpg" alt="" />
@@ -554,10 +570,9 @@ import './react-animated-3d-card.js';
          </div>
         </div>
        </div>
-      </Card>
 
 
-      <Card>
+      
        <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
         <div className=" p-10">
          <img src="proj/chair_shop.jpg" alt="" />
@@ -572,44 +587,7 @@ import './react-animated-3d-card.js';
          </div>
         </div>
        </div>
-      </Card>
-
-
-      <Card>
-       <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
-        <div className=" p-10">
-         <img src="proj/chair_shop.jpg" alt="" />
-         <p className=' font-semibold text-xl mt-1'>Chairs online Shop </p>
-         <div className="flex flex-row gap-2  pt-5">
-          <p className=' text-lg p-1 rounded-sm bg-slate-400 text-white'>Tailwind Css</p>
-          <p className=' text-lg p-1 rounded-sm bg-slate-400 text-white'>React Js</p>
-         </div>
-         <div className=" gap-4 mt-10">
-          <a className=' ml-5 text-xl mr-4 hover:underline text-blue-600 font-semibold ' href="">Priview</a>
-          <a href=""><i class=" text-2xl mr-4  hover:animate-bounce hover:text-blue-700 fa-brands fa-github"></i></a>
-         </div>
-        </div>
-       </div>
-      </Card>
-
-
-      <Card>
-       <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
-        <div className=" p-10">
-         <img src="proj/chair_shop.jpg" alt="" />
-         <p className=' font-semibold text-xl mt-1'>Chairs online Shop </p>
-         <div className="flex flex-row gap-2  pt-5">
-          <p className=' text-lg p-1 rounded-sm bg-slate-400 text-white'>Tailwind Css</p>
-          <p className=' text-lg p-1 rounded-sm bg-slate-400 text-white'>React Js</p>
-         </div>
-         <div className=" gap-4 mt-10">
-          <a className=' ml-5 text-xl mr-4 hover:underline text-blue-600 font-semibold ' href="">Priview</a>
-          <a href=""><i class=" text-2xl mr-4  hover:animate-bounce hover:text-blue-700 fa-brands fa-github"></i></a>
-         </div>
-        </div>
-       </div>
-      </Card>
-
+ 
      </div>
     </div>
 
