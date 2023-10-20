@@ -1,0 +1,65 @@
+{
+  "hash": "7fa696ae",
+  "browserHash": "81407818",
+  "optimized": {
+    "@sl-codeblaster/react-3d-animated-card": {
+      "src": "../../@sl-codeblaster/react-3d-animated-card/dist/index.modern.js",
+      "file": "@sl-codeblaster_react-3d-animated-card.js",
+      "fileHash": "1c6da4ac",
+      "needsInterop": false
+    },
+    "aos": {
+      "src": "../../../react-app/node_modules/aos/dist/aos.js",
+      "file": "aos.js",
+      "fileHash": "55997c1e",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../../react-app/node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "804e43e2",
+      "needsInterop": true
+    },
+    "react-animated-3d-card": {
+      "src": "../../react-animated-3d-card/dist/index.modern.js",
+      "file": "react-animated-3d-card.js",
+      "fileHash": "178e8e6b",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../../react-app/node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "5c3d5d92",
+      "needsInterop": true
+    },
+    "react-router-dom": {
+      "src": "../../../react-app/node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "8f41139a",
+      "needsInterop": false
+    },
+    "react-scroll": {
+      "src": "../../react-scroll/modules/index.js",
+      "file": "react-scroll.js",
+      "fileHash": "aa31167c",
+      "needsInterop": true
+    },
+    "typed.js": {
+      "src": "../../typed.js/dist/typed.module.js",
+      "file": "typed__js.js",
+      "fileHash": "8fa6322c",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-YMY646DU": {
+      "file": "chunk-YMY646DU.js"
+    },
+    "chunk-GOYTZQC7": {
+      "file": "chunk-GOYTZQC7.js"
+    },
+    "chunk-DFKQJ226": {
+      "file": "chunk-DFKQJ226.js"
+    }
+  }
+}
