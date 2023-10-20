@@ -10,8 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
-     "@sl-codeblaster/react-3d-animated-card": "^1.0.8",
-    "aos": "^2.3.4",
+     "aos": "^2.3.4",
     "gsap": "^3.12.2",
     "react": "^18.2.0",
     "react-cookie": "^6.1.0",
@@ -20,8 +19,7 @@
     "react-router-dom": "^6.15.0",
     "typed.js": "^2.0.16",
     "react-scroll": "^1.8.9",
-     "react-animated-3d-card": "^1.0.2"
-
+ 
   },
   "devDependencies": {
     "@types/aos": "^3.0.4",
