@@ -1,0 +1,15 @@
+/* src/styles.css */
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+
+*
+ {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+}
+ 
