@@ -16,7 +16,9 @@
     "react-cookie": "^6.1.0",
     "react-dom": "^18.2.0",
     "react-icon": "^1.0.0",
-    "react-router-dom": "^6.15.0"
+    "react-router-dom": "^6.15.0",
+        "typed.js": "^2.0.16"
+
   },
   "devDependencies": {
     "@types/aos": "^3.0.4",
