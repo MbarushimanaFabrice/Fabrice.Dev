@@ -4,10 +4,8 @@ import Aos from 'aos'
 import 'aos/dist/aos.css';
 import Typed from 'typed.js';
 import { Link } from "react-scroll";
-import "@sl-codeblaster/react-3d-animated-card";
-import Card from "react-animated-3d-card";
-import './mystyle.css';
-function App() {
+import './react-animated-3d-card.js';
+ function App() {
  useEffect(() => {
   Aos.init({
    duration: 1000,
