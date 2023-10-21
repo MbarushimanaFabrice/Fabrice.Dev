@@ -528,8 +528,7 @@ import './animaos.js';
 
             <a href="https://chairs-store.vercel.app/" target='_blank'>
 
-              <Card>
-                <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+                 <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
                   <div className=" p-10">
                     <img src="proj/chair_shop.jpg" alt="" />
                     <p className=' font-semibold text-xl mt-1'>Chairs online Shop </p>
@@ -543,12 +542,10 @@ import './animaos.js';
                     </div>
                   </div>
                 </div>
-              </Card>
-            </a>
+             </a>
 
             <Link to="Home" spy={true} smooth={true} duration={1220}>
-              <Card >
-                <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+                 <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
                   <div className=" p-10">
                     <img src="proj/portfolio.jpg" alt="" />
                     <p className=' font-semibold text-xl mt-1'>My Portfolio</p>
@@ -563,12 +560,10 @@ import './animaos.js';
                     </div>
                   </div>
                 </div>
-              </Card>
-            </Link>
+             </Link>
 
             <a target='_blank' href="http://ems.great-site.net/?i=2">
-              <Card>
-                <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+                 <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
                   <div className=" p-10">
                     <img src="proj/EMS.jpg" alt="" />
                     <p className=' font-semibold text-xl mt-1'>Employees Management System</p>
@@ -585,14 +580,12 @@ import './animaos.js';
                     </div>
                   </div>
                 </div>
-              </Card>
-            </a>
+             </a>
 
 
             <a target="_blank" href="https://mordern-transport.vercel.app/">
            
-            <Card>
-              <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+               <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
                 <div className=" p-10">
                   <img src="proj/transport.jpg" alt="" />
                   <p className=' font-semibold text-xl mt-1'>Mordern transport </p>
@@ -606,14 +599,12 @@ import './animaos.js';
                   </div>
                 </div>
               </div>
-            </Card>
-            </a>
+             </a>
 
 
             <a target="_blank" href="http://ems.great-site.net/index2.html">
 
-            <Card>
-              <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+               <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
                 <div className=" p-10">
                   <img src="proj/havana.jpg" alt="" />
                   <p className=' font-semibold text-xl mt-1'>Hotel Managment System</p>
@@ -630,8 +621,7 @@ import './animaos.js';
                   </div>
                 </div>
               </div>
-              </Card>
-            </a>
+             </a>
             
         
 
