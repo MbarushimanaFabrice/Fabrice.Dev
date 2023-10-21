@@ -6,8 +6,7 @@ import Typed from 'typed.js';
 import { Link } from "react-scroll";
 import "@sl-codeblaster/react-3d-animated-card";
 import Card from "react-animated-3d-card";
-import './mystyle.css';
-function App() {
+ function App() {
   useEffect(() => {
     Aos.init({
       duration: 1000,
