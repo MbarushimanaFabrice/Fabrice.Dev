@@ -210,7 +210,7 @@ import './animaos.js';
               in society. <br /> That why i continuously stay up-to-date  with latest industry
               trends and technologies to ensure that every project i wark on is innovative
               and meet highest standards. I have been warking on startup project like
-              <a className=' text-indigo-800 font-semibold hover:underline italic cursor-pointer' href=""> E-Epower</a> and
+              <a className=' text-indigo-800 font-semibold hover:underline italic cursor-pointer' target='_blank' href="https://e-power-app.vercel.app/"> E-Epower</a> and
               <a className=' text-indigo-800 font-semibold hover:underline italic cursor-pointer' href=""> IRANGA tc </a>
               on that project i work as fullstact developer. <br /> If you're seeking a passionate
               and inovative developer for your project and company feel free to
