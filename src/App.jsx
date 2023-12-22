@@ -161,8 +161,8 @@ import './animaos.js';
 
             <div className="media mt-40 space-x-6 text-3xl  grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8  w-1/2">
               <a target='_blank' href="https://www.facebook.com/mbarushimana.fabrice.92/"><i class="md:ml-0 hover:animate-bounce hover:text-blue-700 fa-brands fa-facebook"></i></a>
-              <a target='_blank' href="tel:0783211171"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-whatsapp"></i></a>
-              <a target='_blank' href="https://www.instagram.com/fabrice_50k/"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-instagram"></i></a>
+              <a target='_blank' href="https://wa.me/c/250787789459"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-whatsapp"></i></a>
+               <a target='_blank' href="https://www.instagram.com/fabrice_50k/"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-instagram"></i></a>
               <a target='_blank' href="https://twitter.com/F11Mbarushimana"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-x-twitter"></i></a>
               <a target='_blank' href="https://www.linkedin.com/in/mbarushimana-f-711109238/"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-linkedin-in"></i></a>
               <a target='_blank' href="https://github.com/MbarushimanaFabrice/"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-github"></i></a>
@@ -717,7 +717,7 @@ import './animaos.js';
         <div className=" text-center">
           <div className="media mt-5 space-x-6 text-4xl">
             <a target='_blank' href="https://www.facebook.com/mbarushimana.fabrice.92/"><i class="md:ml-0 hover:animate-bounce hover:text-blue-700 fa-brands fa-facebook"></i></a>
-            <a target='_blank' href="tel:0783211171"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-whatsapp"></i></a>
+              <a target='_blank' href="https://wa.me/c/250787789459"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-whatsapp"></i></a>
             <a target='_blank' href="https://www.instagram.com/fabrice_50k/"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-instagram"></i></a>
             <a target='_blank' href="https://twitter.com/F11Mbarushimana"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-x-twitter"></i></a>
             <a target='_blank' href="https://www.linkedin.com/in/mbarushimana-f-711109238/"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-linkedin-in"></i></a>
