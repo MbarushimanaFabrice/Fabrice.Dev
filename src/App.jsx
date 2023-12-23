@@ -161,7 +161,8 @@ import './animaos.js';
 
             <div className="media mt-40 space-x-6 text-3xl  grid grid-cols-2 md:grid-cols-4 lg:grid-cols-8  w-1/2">
               <a target='_blank' href="https://www.facebook.com/mbarushimana.fabrice.92/"><i class="md:ml-0 hover:animate-bounce hover:text-blue-700 fa-brands fa-facebook"></i></a>
-              <a target='_blank' href="https://wa.me/c/250787789459"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-whatsapp"></i></a>
+              <a target='_blank' href=" https://api.whatsapp.com/send?phone=+250787789459&text=Hello%20Fabrice!%20%F0%9F%91%8B%F0%9F%8F%BB"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-whatsapp"></i></a>
+            
                <a target='_blank' href="https://www.instagram.com/fabrice_50k/"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-instagram"></i></a>
               <a target='_blank' href="https://twitter.com/F11Mbarushimana"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-x-twitter"></i></a>
               <a target='_blank' href="https://www.linkedin.com/in/mbarushimana-f-711109238/"><i class=" hover:animate-bounce hover:text-blue-700 fa-brands fa-linkedin-in"></i></a>
