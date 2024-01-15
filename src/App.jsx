@@ -429,6 +429,16 @@ import './animaos.js';
 
 
 
+            <Card>
+              <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+                <div className=" p-10">
+                  <img src="cert/Backend-development-and-API.png" alt="" />
+                  <p className=' font-semibold text-xl mt-1'>Backend development and API</p> <br /> <br />
+                  <p className=' text-xl'>Backend development and API course  from FreeCodeCamp</p>
+                </div>
+              </div>
+            </Card>
+
 
             <Card>
               <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
