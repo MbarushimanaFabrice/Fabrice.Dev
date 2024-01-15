@@ -451,6 +451,16 @@ import './animaos.js';
             </Card>
 
 
+            <Card>
+              <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
+                <div className=" p-10">
+                  <img src="cert/Ract-Certificate.png" alt="" />
+                  <p className=' font-semibold text-xl mt-1'>RactJs</p> <br /> <br />
+                  <p className=' text-xl'>RactJs from Great Learning.</p>
+                </div>
+              </div>
+            </Card>
+
 
             <Card>
               <div className="border w-full md:w-[28vw] border-indigo-500 shadow-xl text-center">
