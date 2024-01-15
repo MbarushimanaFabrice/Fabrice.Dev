@@ -665,10 +665,10 @@ import './animaos.js';
               <div className=" mt-3">
                 <i class=" mr-4  text-3xl text-indigo-600 hover:animate-bounce hover:text-blue-700  fa-solid fa-phone"></i>
               </div>
-              <a target='_blank' href="tel:+250790270019">
+              <a target='_blank' href="tel:+250787789459">
                 <div>
                   <p className=' text-2xl font-semibold'>Phone</p>
-                  <p className=' text-xl font-semibold text-slate-500'>+250790270019</p>
+                  <p className=' text-xl font-semibold text-slate-500'>+250787789459</p>
                 </div>
               </a>
 
