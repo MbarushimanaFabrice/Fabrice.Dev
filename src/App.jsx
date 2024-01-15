@@ -17,7 +17,7 @@ import './animaos.js';
     })
   },[]);
   const el = useRef(null);
-  useEffect(() => {
+  useEffect(() => { 
     const typed = new Typed(el.current,{
       strings: ["Full stack developer","MEREN Stack developer"
         ,"Front-end developer","Web designer"],
@@ -751,7 +751,7 @@ import './animaos.js';
 
           <div className="text-indigo-800 font-semibold text-lg">
             <p>Made with ❤ by Fabrice</p>
-            <p className=' -mbt-2'>Copyright &copy; 2023</p>
+            <p className=' -mbt-2'>Copyright &copy; 2024</p>
           </div>
 
         </div>
