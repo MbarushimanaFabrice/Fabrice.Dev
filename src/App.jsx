@@ -270,7 +270,7 @@ import './animaos.js';
               <div className=' h-72 rounded-full ml-6 w-1 bg-slate-700'> </div>
             </div>
             <div className=' ml-6 mt-4'>
-              <p className=' text-lg bg-slate-500 text-white w-40 rounded-full p-2 text-center '>2023-2024-Present</p>
+              <p className=' text-lg bg-slate-500 text-white rounded-full p-2 text-center '>2023-2024-Present</p>
               <p className=' mb-4  leading-8 text-xl mt-3'>In this year i continue improving my skills in coding where i started to learn and make advanced
                 project, i started to wark on backend developer and APIs where i start on <b>php</b>  and <b>mysqli</b>
                 as backend tec and i continue in javascript backend where i use <b>Node js</b> for develop <b>REST API</b>.
