@@ -19,7 +19,7 @@ import './animaos.js';
   const el = useRef(null);
   useEffect(() => { 
     const typed = new Typed(el.current,{
-      strings: ["Full stack developer","MEREN Stack developer"
+      strings: ["Full stack developer","MERN Stack developer"
         ,"Front-end developer","Web designer"],
       typeSpeed: 50,
       backSpeed: 100,
